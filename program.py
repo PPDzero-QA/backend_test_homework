@@ -22,8 +22,8 @@ def calc(your_number):
     text = ('Мы вычислили корень квадратный из введенного вами числа.'
             ' Это будет: ')
 
-    print(f"{text}{root}")
+    print(f'{text}{root}')
 
 
-print(message)
+print(message) #test
 calc(25.5)
