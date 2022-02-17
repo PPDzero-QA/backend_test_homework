@@ -25,5 +25,5 @@ def calc(your_number):
     print(f'{text}{root}')
 
 
-print(message) #test
+print(message) #test 2
 calc(25.5)
